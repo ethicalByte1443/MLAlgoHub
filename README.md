@@ -30,3 +30,17 @@ Welcome to **MLAlgoHub**! This repository is your go-to resource for exploring, 
    ```bash
    git clone https://github.com/ethicalByte1443/MLAlgoHub.git
    cd MLAlgoHub
+
+2. **Install Required Packages**:
+   Make sure you have Python and pip installed. Then, install the required Python packages
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Set Up Jupyter Extensions in VS Code:**:
+   Make sure you have Python and pip installed. Then, install the required Python packages
+- **Install VS Code**: If you haven't already, download and install Visual Studio Code.
+
+- **Install Python Extension**: Open VS Code and go to the Extensions view by clicking on the Extensions icon in the Sidebar or pressing Ctrl+Shift+X. Search for Python and install the official Python extension by Microsoft.
+
+- **Install Jupyter Extension**: In the Extensions view, search for Jupyter and install the official Jupyter extension by Microsoft.
+- **Reload VS Code**: After installation, reload VS Code to activate the extensions.
